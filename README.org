@@ -1,0 +1,6 @@
+#+TITLE: Präsentattionen
+#+AUTHOR: Niklas von Hirschfeld
+
+* Org zu Reveal.js
+
+Hier benutze ich die "Pages" funktion von GitHub.io um meine Präsentattionen zu halten. Ich verfasse sie in Emacs über den sog. [[https://github.io][ogr-mode.]] Dort kann ich sie dann über "ox-reveal" in eine html Datei exportieren.
