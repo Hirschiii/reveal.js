@@ -27,7 +27,8 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 #+CAPTION: Tastaturen <3
 #+NAME:   fig:SED-HR4049
 [[./tastatur.jpg]]
-** und meine TODO liste [/]
-- [ ] nummer 1
-- [X] und 2
-- [ ] 3
+
+** TODO und meine TODO liste [0/3]
+*** TODO nummer 1
+*** TODO und 2
+*** TODO 3
