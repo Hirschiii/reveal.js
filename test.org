@@ -24,7 +24,7 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 | Venom   | Cool                              |
 | Venom 2 | ist im Kino, müssen wir gucken ;) |
 * Und ein Bild:
-#+CAPTION: Tastaturen <3
+#+CAPTION: Tastaturen
 #+NAME:   fig:SED-HR4049
 [[./tastatur.jpg]]
 

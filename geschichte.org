@@ -1,0 +1,39 @@
+:REVEAL_PROPERTIES:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION: 4
+:END:
+
+#+TITLE: Rassenlehre
+#+AUTHOR: Niklas, Immo, Fabian, Magnus
+
+* Rassenlehre
+** Algemein
+- Juden stellten für Nazis den Hauptfeind der arischen Rasse dar
+- Sie erklärten diese zu einer eigenen Rasse
+- unterstellten ihr, einen schädlichen Einfluss auf die Qualität der arischen Rasse zu haben.
+- Daher müsse sie vernichtet werden.
+- Pseudowissenschaften 19. Jahrhundert
+** Definition
+- Basiert auf 2 **Pseudowissenschaften**
+  - Rassentheorie
+  - Rassenhygiene
+** Geschichte
+* Verbreitung
+[[./rassenlehre.jpg]]
+** Propaganda Plakate
+- "Arier" gegen Jude
+** Verteilung 12 "Gebote" zur Rasseneinhaltung:
+- z. B. "Haltet das deutsche Blut rein"
+- Ziel: religiöser Status
+** Verbreitung im Schulunterricht
+- Rassenatlas
+
+
+
+* Aktuell
+- Immernoch Aktuell
+** Atilla Hildman
+- Zitate:
+  - Ich möchte kein Verfahren in Deutschland, es währe nicht fair. Es ist kein Deutsches Verfahren.
+- Theorien:
+  - Juden hätten den Holocaust mitfinanziert
