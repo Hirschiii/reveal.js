@@ -7,17 +7,24 @@
 #+AUTHOR: Niklas, Immo, Fabian, Magnus
 
 * Rassenlehre
-** Algemein
-- Juden stellten für Nazis den Hauptfeind der arischen Rasse dar
-- Sie erklärten diese zu einer eigenen Rasse
-- unterstellten ihr, einen schädlichen Einfluss auf die Qualität der arischen Rasse zu haben.
-- Daher müsse sie vernichtet werden.
-- Pseudowissenschaften 19. Jahrhundert
+
 ** Definition
 - Basiert auf 2 **Pseudowissenschaften**
   - Rassentheorie
   - Rassenhygiene
-** Geschichte
+** Rassenlehre gegen Juden
+- Juden stellten für Nazis den Hauptfeind der arischen Rasse dar
+- Sie erklärten diese zu einer eigenen Rasse
+- unterstellten ihr, einen schädlichen Einfluss auf die Qualität der arischen Rasse zu haben.
+- Daher müsse sie vernichtet werden.
+* Geschichte
+- 17. Jahrhundert bis gegen Ende des 20. Jahrhunderts
+
+- 19. Jahrhundert
+
+- (Biologie) auf den Menschen bezogene Rassenkonzepte
+
+- Biologie der Art Homo sapiens
 * Verbreitung
 [[./rassenlehre.jpg]]
 ** Propaganda Plakate
@@ -25,6 +32,7 @@
 ** Verteilung 12 "Gebote" zur Rasseneinhaltung:
 - z. B. "Haltet das deutsche Blut rein"
 - Ziel: religiöser Status
+- Die zwölf Gebote wurde auf faltblättern Verteilt
 ** Verbreitung im Schulunterricht
 - Rassenatlas
 
@@ -33,6 +41,8 @@
 * Aktuell
 - Immernoch Aktuell
 ** Atilla Hildman
+[[./atilla.jpg]]
+** Aussagen
 - Zitate:
   - Ich möchte kein Verfahren in Deutschland, es währe nicht fair. Es ist kein Deutsches Verfahren.
 - Theorien:
