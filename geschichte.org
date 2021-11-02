@@ -8,10 +8,12 @@
 
 * Rassenlehre
 
-** Definition
-- Basiert auf 2 **Pseudowissenschaften**
-  - Rassentheorie
-  - Rassenhygiene
+** Rassentheorien und Rassenhygiene
+- "Rassentheorien" und "Rassenhygiene" bildeten grundlegende Elemente der nationalsozialistischen Weltanschauung.
+- Die meisten dieser Theorien basierten auf einem rassistisch motivierten Antisemitismus, der im ausgehenden 19. Jahrhundert in zahlreichen Publikationen seinen Ausdruck fand.
+- So beschrieben Autoren wie Wilhelm Marr und der Brite Houston Stewart Chamberlain das Judentum nicht als Religion, sondern als fremdartige und minderwertige Rasse, welche die Weltherrschaft anstrebte.
+- Das Erbgut sollte entscheidend sein für den Wert
+- Es ging also nicht um Unterschiede innerhalb der Wirtschaft, der Kultur oder der Politik eines Volkes, sondern um seine "rassischen" Eigenschaften, welche man wissenschaftlich nachzuweisen versuchte.
 ** Rassenlehre gegen Juden
 - Juden stellten für Nazis den Hauptfeind der arischen Rasse dar
 - Sie erklärten diese zu einer eigenen Rasse
@@ -34,6 +36,7 @@
 - Ziel: religiöser Status
 - Die zwölf Gebote wurde auf faltblättern Verteilt
 ** Verbreitung im Schulunterricht
+- eigenes Fach
 - Rassenatlas
 
 
