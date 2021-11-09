@@ -1,0 +1,38 @@
+#+TITLE:        Rassenlehre
+#+AUTHOR:       Niklas, Immanuel, Magnus, Fabian
+#+LANGUAGE:     de
+#+EMAIL:        niklasvonh@gmail.com
+#+DATE:         {{{time(%Y-%m-%d)}}}
+#+DESCRIPTION:  Rassenlehre Handout
+#+KEYWORDS:     Rassismus, Rassenlehre, Adolf Hitler
+#+LANGUAGE:  de
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t ^:nil _:nil
+#+STARTUP:   showall
+#+latex_class: article
+#+LATEX_HEADER: \usepackage{lmodern} % Ensures we have the right font
+
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \setmainfont{Arial}
+#+LATEX_HEADER: \usepackage[AUTO]{inputenc}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{amsmath, amsthm, amssymb}
+#+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
+
+#+LATEX: \newpage
+#+LATEX: \begin{center}
+
+* Rassenlehre
+[[./rassenlehre.jpg]]
+#+LATEX: \end{center}
+#+LATEX: \newpage
+* Rassentheorien und Rassenhygiene
+- grundlegende "Wissenschaften"
+- Antisemitismus 19. Jahrhundert
+- Judentum sei keine Religion sondern "fremdartige und minderwertige Rasse" (Wilhelm Marr)
+- Rassismus
+
+* Rassenlehre gegen Juden
+- Hauptfeind der Nazies
+- begann aber schon Früher
+- Martin Luther (1545):  „Von den Juden und ihren Lügen“

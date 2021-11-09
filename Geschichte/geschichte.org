@@ -5,6 +5,8 @@
 
 #+TITLE: Rassenlehre
 #+AUTHOR: Niklas, Immo, Fabian, Magnus
+#+LANGUAGE: de
+#+REVEAL_MARGIN: 0.9
 
 * Rassenlehre
 
@@ -28,6 +30,7 @@
 
 - Biologie der Art Homo sapiens
 * Verbreitung
+#+REVEAL: split
 [[./rassenlehre.jpg]]
 ** Propaganda Plakate
 - "Arier" gegen Jude

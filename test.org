@@ -23,12 +23,20 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 |---------+-----------------------------------|
 | Venom   | Cool                              |
 | Venom 2 | ist im Kino, müssen wir gucken ;) |
+
+
 * Und ein Bild:
+:PROPERTIES:
+   :reveal_background: #bd9cf9
+:END:
 #+CAPTION: Tastaturen
 #+NAME:   fig:SED-HR4049
 [[./tastatur.jpg]]
 
-** TODO und meine TODO liste [0/3]
-*** TODO nummer 1
-*** TODO und 2
-*** TODO 3
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (grow shrink roll-in fade-out none)
+- I will grow.
+- I will shrink.
+- I rolled in.
+- I will fade out.
+- I do n't fragment.
