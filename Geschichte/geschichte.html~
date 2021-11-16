@@ -9,22 +9,22 @@
 </style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css"/>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/night.css" id="theme"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/league.css" id="theme"/>
 
 </head>
 <body>
 <div class="reveal">
 <div class="slides">
-<section id="sec-title-slide"><h1 class="title">Rassenlehre</h1><h2 class="author">Niklas, Immo, Fabian, Magnus</h2><p class="date">Created: 2021-11-16 Di 09:47</p>
+<section id="sec-title-slide"><h1 class="title">Rassenlehre</h1><h2 class="author">Niklas, Immo, Fabian, Magnus</h2><p class="date">Created: 2021-11-16 Di 09:48</p>
 </section>
 <section id="sec-table-of-contents"><div id="table-of-contents">
 <h2>Inhaltsverzeichnis</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-orgf5cada7">Rassenlehre</a></li>
-<li><a href="#/slide-orge652ccf">Geschichte</a></li>
-<li><a href="#/slide-orgb699796">Verbreitung</a></li>
-<li><a href="#/slide-orgdcd7361">Aktuell</a></li>
+<li><a href="#/slide-org815b850">Rassenlehre</a></li>
+<li><a href="#/slide-org69f7ea7">Geschichte</a></li>
+<li><a href="#/slide-orge115419">Verbreitung</a></li>
+<li><a href="#/slide-org0687757">Aktuell</a></li>
 </ul>
 </div>
 </div>
@@ -32,11 +32,13 @@
 
 
 <section>
-<section id="slide-orgf5cada7" data-background="#A1A1A1">
-<h2 id="orgf5cada7">Rassenlehre</h2>
+<section id="slide-org815b850">
+<h2 id="org815b850">Rassenlehre</h2>
+<div class="outline-text-2" id="text-org815b850">
+</div>
 </section>
-<section id="slide-org247e818">
-<h3 id="org247e818">Rassentheorien und Rassenhygiene</h3>
+<section id="slide-orgd9a8bb2">
+<h3 id="orgd9a8bb2">Rassentheorien und Rassenhygiene</h3>
 <ul>
 <li>"Rassentheorien" und "Rassenhygiene" bildeten grundlegende Elemente der nationalsozialistischen Weltanschauung.</li>
 <li>Die meisten dieser Theorien basierten auf einem rassistisch motivierten Antisemitismus, der im ausgehenden 19. Jahrhundert in zahlreichen Publikationen seinen Ausdruck fand.</li>
@@ -46,8 +48,8 @@
 
 </ul>
 </section>
-<section id="slide-orgae40e01">
-<h3 id="orgae40e01">Rassenlehre gegen Juden</h3>
+<section id="slide-orgecdcf73">
+<h3 id="orgecdcf73">Rassenlehre gegen Juden</h3>
 <ul>
 <li>Juden stellten für Nazis den Hauptfeind der arischen Rasse dar</li>
 <li>Sie erklärten diese zu einer eigenen Rasse</li>
@@ -58,8 +60,8 @@
 </section>
 </section>
 <section>
-<section id="slide-orge652ccf">
-<h2 id="orge652ccf">Geschichte</h2>
+<section id="slide-org69f7ea7">
+<h2 id="org69f7ea7">Geschichte</h2>
 <ul>
 <li>17. Jahrhundert bis gegen Ende des 20. Jahrhunderts</li>
 
@@ -73,26 +75,26 @@
 </section>
 </section>
 <section>
-<section id="slide-orgb699796">
-<h2 id="orgb699796">Verbreitung</h2>
+<section id="slide-orge115419">
+<h2 id="orge115419">Verbreitung</h2>
 </section>
-<section id="slide-orgb699796-split">
+<section id="slide-orge115419-split">
 
-<div id="org08417d7" class="figure">
+<div id="org053dd24" class="figure">
 <p><img src="./rassenlehre.jpg" alt="rassenlehre.jpg" />
 </p>
 </div>
 
 </section>
-<section id="slide-orge214263">
-<h3 id="orge214263">Propaganda Plakate</h3>
+<section id="slide-org16ebe9b">
+<h3 id="org16ebe9b">Propaganda Plakate</h3>
 <ul>
 <li>"Arier" gegen Jude</li>
 
 </ul>
 </section>
-<section id="slide-orgddfe5b1">
-<h3 id="orgddfe5b1">Verteilung 12 "Gebote" zur Rasseneinhaltung:</h3>
+<section id="slide-org06f43fe">
+<h3 id="org06f43fe">Verteilung 12 "Gebote" zur Rasseneinhaltung:</h3>
 <ul>
 <li>z. B. "Haltet das deutsche Blut rein"</li>
 <li>Ziel: religiöser Status</li>
@@ -100,8 +102,8 @@
 
 </ul>
 </section>
-<section id="slide-orgd4cd6d5">
-<h3 id="orgd4cd6d5">Verbreitung im Schulunterricht</h3>
+<section id="slide-org0db6700">
+<h3 id="org0db6700">Verbreitung im Schulunterricht</h3>
 <ul>
 <li>eigenes Fach</li>
 <li>Rassenatlas</li>
@@ -113,23 +115,23 @@
 </section>
 </section>
 <section>
-<section id="slide-orgdcd7361">
-<h2 id="orgdcd7361">Aktuell</h2>
+<section id="slide-org0687757">
+<h2 id="org0687757">Aktuell</h2>
 <ul>
 <li>Immernoch Aktuell</li>
 
 </ul>
 </section>
-<section id="slide-orgf8dd57f">
-<h3 id="orgf8dd57f">Atilla Hildman</h3>
+<section id="slide-org433f6df">
+<h3 id="org433f6df">Atilla Hildman</h3>
 
-<div id="org11309f7" class="figure">
+<div id="org36df523" class="figure">
 <p><img src="./atilla.jpg" alt="atilla.jpg" />
 </p>
 </div>
 </section>
-<section id="slide-orge54da1d">
-<h3 id="orge54da1d">Aussagen</h3>
+<section id="slide-orgb872528">
+<h3 id="orgb872528">Aussagen</h3>
 <ul>
 <li>Zitate:
 <ul>
