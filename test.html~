@@ -17,15 +17,15 @@
 <div class="reveal">
 <div class="slides">
 <section id="sec-title-slide"><h1 class="title">Eine einfach schöne Präsentation</h1><p class="subtitle">(von Org zu Reveal.js)</p>
-<h2 class="date">2021-10-29 Fr 00:00</h2><p class="date">Created: 2021-11-16 Di 09:27</p>
+<h2 class="date">2021-10-29 Fr 00:00</h2><p class="date">Created: 2021-11-16 Di 09:26</p>
 </section>
 <section id="sec-table-of-contents"><div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-org8a0594e">Das ist die Seite mit ein bisschen Mathe :)</a></li>
-<li><a href="#/slide-org1dfc65d">Das ist Punkt zwei</a></li>
-<li><a href="#/slide-org00e1065">Und ein Bild:</a></li>
+<li><a href="#/slide-org267dd59">Das ist die Seite mit ein bisschen Mathe :)</a></li>
+<li><a href="#/slide-org384e0f4">Das ist Punkt zwei</a></li>
+<li><a href="#/slide-orgf6fafa5">Und ein Bild:</a></li>
 </ul>
 </div>
 </div>
@@ -34,8 +34,8 @@
 
 
 <section>
-<section id="slide-org8a0594e">
-<h2 id="org8a0594e">Das ist die Seite mit ein bisschen Mathe :)</h2>
+<section id="slide-org267dd59">
+<h2 id="org267dd59">Das ist die Seite mit ein bisschen Mathe :)</h2>
 <p>
 \[ G_{MN}=R_{MN}-\frac{1}{2}g_{MN}R=6b^2g_{MN} \]
 </p>
@@ -43,8 +43,8 @@
 </section>
 </section>
 <section>
-<section id="slide-org1dfc65d">
-<h2 id="org1dfc65d">Das ist Punkt zwei</h2>
+<section id="slide-org384e0f4">
+<h2 id="org384e0f4">Das ist Punkt zwei</h2>
 <ul>
 <li>mit einer tollen liste</li>
 <li>mit vielen Punkten
@@ -57,16 +57,16 @@
 </section>
 </section>
 <section>
-<section id="slide-org9b635f1">
-<h3 id="org9b635f1">Langer text:</h3>
+<section id="slide-org40be4fd">
+<h3 id="org40be4fd">Langer text:</h3>
 <p>
 hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi üorj ühr ouhoghj üohfso hüorewü huvhw oehvpeu hvü9hsvü9es hvpdshf ljvhxsp9ve üvhdpoiuhüue hv ühvü hüvhclkshv ifevnievpkj fdsvfdshvoijgü0uijreüowjvüoie hjüohjv üewhvüohsoj fhvüufns lkjhvoure vnüufdshvüoes hvjfshpudsh gpljnfvoüuehsüo vüjwe üovhs podhvoeugs vzewhvüouew vrjouesnvpoufs vds hpouh üovuhs üohvüew hvüowilkjfdsjvure hv
 </p>
 </section>
 </section>
 <section>
-<section id="slide-org55861f9">
-<h3 id="org55861f9">Und eine Tabelle:</h3>
+<section id="slide-org9e1637e">
+<h3 id="org9e1637e">Und eine Tabelle:</h3>
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -98,17 +98,17 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 </section>
 </section>
 <section>
-<section id="slide-org00e1065" data-background="#bd9cf9">
-<h2 id="org00e1065">Und ein Bild:</h2>
+<section id="slide-orgf6fafa5" data-background="#bd9cf9">
+<h2 id="orgf6fafa5">Und ein Bild:</h2>
 
-<div id="org5f446d8" class="figure">
+<div id="orga12762a" class="figure">
 <p><img src="./tastatur.jpg" alt="tastatur.jpg" />
 </p>
 <p><span class="figure-number">Figure 1: </span>Tastaturen</p>
 </div>
 
 </section>
-<section id="slide-org00e1065-split" data-background="#bd9cf9">
+<section id="slide-orgf6fafa5-split" data-background="#bd9cf9">
 <ul>
 <li class="fragment grow">I will grow.</li>
 <li class="fragment shrink">I will shrink.</li>
