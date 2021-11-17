@@ -30,5 +30,7 @@ Rede zum Jährlichen Jubiläum der Machtergreifung
 - es geht um den schon "jahrunderte" langen Kampf der Deutschen um "Freiheit"
 
 * Aufbau
+#+REVEAL: split
 
 - Opfer des "Jahrelangen" Kampfes
+-  ff
