@@ -10,9 +10,7 @@
 #+REVEAL_THEME: black
 #+REVEAL_HLEVEL: 999
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
-#+REVEAL_REVEAL_JS_VERSION: 4
 :END:
-i
 
 #+TITLE: Eine einfach schöne Präsentation
 #+SUBTITLE: von Org zu Reveal.js
@@ -24,6 +22,7 @@ $$ G_{MN}=R_{MN}-\frac{1}{2}g_{MN}R=6b^2g_{MN} $$
 
 * Das ist Punkt zwei
 
+ 
 - mit einer tollen liste
 - mit vielen Punkten
   - und unterpunkten
@@ -39,7 +38,7 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 
 * Und ein Bild:
 :PROPERTIES:
-   :reveal_background: #bd9cf9
+:reveal_background: #bd9cf9
 :END:
 #+CAPTION: Tastaturen
 #+NAME:   fig:SED-HR4049

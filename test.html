@@ -10,22 +10,32 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css" id="theme"/>
 
-<link rel="stylesheet" href="./presentation.css"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://cdn.jsdelivr.net/npm/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </head>
 <body>
 <div class="reveal">
 <div class="slides">
 <section id="sec-title-slide"><h1 class="title">Eine einfach schöne Präsentation</h1><p class="subtitle">(von Org zu Reveal.js)</p>
-<h2 class="date">2021-10-29 Fr 00:00</h2><p class="date">Created: 2021-11-16 Di 09:27</p>
+<h2 class="date">2021-10-29 Fr 00:00</h2><p class="date">Created: 2021-11-17 Mi 09:17</p>
 </section>
 <section id="sec-table-of-contents"><div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-org8a0594e">Das ist die Seite mit ein bisschen Mathe :)</a></li>
-<li><a href="#/slide-org1dfc65d">Das ist Punkt zwei</a></li>
-<li><a href="#/slide-org00e1065">Und ein Bild:</a></li>
+<li><a href="#/slide-org4c998b5">Das ist die Seite mit ein bisschen Mathe :)</a></li>
+<li><a href="#/slide-org56d0b3e">Das ist Punkt zwei</a></li>
+<li><a href="#/slide-org7ebc7e1">Und ein Bild:</a></li>
 </ul>
 </div>
 </div>
@@ -34,8 +44,8 @@
 
 
 <section>
-<section id="slide-org8a0594e">
-<h2 id="org8a0594e">Das ist die Seite mit ein bisschen Mathe :)</h2>
+<section id="slide-org4c998b5">
+<h2 id="org4c998b5">Das ist die Seite mit ein bisschen Mathe :)</h2>
 <p>
 \[ G_{MN}=R_{MN}-\frac{1}{2}g_{MN}R=6b^2g_{MN} \]
 </p>
@@ -43,8 +53,14 @@
 </section>
 </section>
 <section>
-<section id="slide-org1dfc65d">
-<h2 id="org1dfc65d">Das ist Punkt zwei</h2>
+<section id="slide-org56d0b3e">
+<h2 id="org56d0b3e">Das ist Punkt zwei</h2>
+<p>
+Dies ist ein ganz kurzer Beispieltext\(\cite{meier99}\).
+\(\bibliography{lit}\)
+\(\bibliographystyle{alpha}\)
+</p>
+
 <ul>
 <li>mit einer tollen liste</li>
 <li>mit vielen Punkten
@@ -54,19 +70,20 @@
 </ul></li>
 
 </ul>
+
 </section>
 </section>
 <section>
-<section id="slide-org9b635f1">
-<h3 id="org9b635f1">Langer text:</h3>
+<section id="slide-org00e09d3">
+<h3 id="org00e09d3">Langer text:</h3>
 <p>
 hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi üorj ühr ouhoghj üohfso hüorewü huvhw oehvpeu hvü9hsvü9es hvpdshf ljvhxsp9ve üvhdpoiuhüue hv ühvü hüvhclkshv ifevnievpkj fdsvfdshvoijgü0uijreüowjvüoie hjüohjv üewhvüohsoj fhvüufns lkjhvoure vnüufdshvüoes hvjfshpudsh gpljnfvoüuehsüo vüjwe üovhs podhvoeugs vzewhvüouew vrjouesnvpoufs vds hpouh üovuhs üohvüew hvüowilkjfdsjvure hv
 </p>
 </section>
 </section>
 <section>
-<section id="slide-org55861f9">
-<h3 id="org55861f9">Und eine Tabelle:</h3>
+<section id="slide-orgfff9293">
+<h3 id="orgfff9293">Und eine Tabelle:</h3>
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -98,17 +115,17 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 </section>
 </section>
 <section>
-<section id="slide-org00e1065" data-background="#bd9cf9">
-<h2 id="org00e1065">Und ein Bild:</h2>
+<section id="slide-org7ebc7e1" data-background="#bd9cf9">
+<h2 id="org7ebc7e1">Und ein Bild:</h2>
 
-<div id="org5f446d8" class="figure">
+<div id="org2024761" class="figure">
 <p><img src="./tastatur.jpg" alt="tastatur.jpg" />
 </p>
 <p><span class="figure-number">Figure 1: </span>Tastaturen</p>
 </div>
 
 </section>
-<section id="slide-org00e1065-split" data-background="#bd9cf9">
+<section id="slide-org7ebc7e1-split" data-background="#bd9cf9">
 <ul>
 <li class="fragment grow">I will grow.</li>
 <li class="fragment shrink">I will shrink.</li>
@@ -122,16 +139,19 @@ hfaofdihwbnfrpihwpi rhfpiwpirvfpihewbvihfbsvpihsabvienfuvepifngpihsakjvpihcnepi 
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/zoom/zoom.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/notes/notes.js"></script>
-
 
 <script>
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
-plugins: [RevealMarkdown, RevealZoom, RevealNotes]
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+
 });
 
 </script>

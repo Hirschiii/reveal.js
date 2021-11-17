@@ -1,0 +1,36 @@
+:REVEAL_PROPERTIES:
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: blood
+#+REVEAL_HLEVEL: 999
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+:END:
+
+#+TITLE: Reden
+#+SUBTITLE: Rede von Adolf Hitler
+
+* Anlass
+#+REVEAL: split
+
+Rede zum Jährlichen Jubiläum der Machtergreifung
+
+
+#+REVEAL: split
+
+#+CAPTION: Reichstag
+#+NAME:   fig:SED-HR4049
+[[./speech.jpg]]
+
+* Inhalt
+#+ATTR_REVEAL: :frag (fade-in)
+- Sein Erfolg
+- Erster Reichtag in Deutschaldnd
+- Ein "Jahr, in dem sich Jahrhunderte verwirklichten"
+- "vergeblich angestrebte Sehnsucht zahlreicher Generationen" wurde erreicht.
+- es geht um den schon "jahrunderte" langen Kampf der Deutschen um "Freiheit"
+
+* Aufbau
+#+REVEAL: split
+
+- Opfer des "Jahrelangen" Kampfes
+- 
