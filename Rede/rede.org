@@ -2,7 +2,6 @@
 #+OPTIONS: toc:1 num:nil
 #+REVEAL_TRANS: none
 #+REVEAL_THEME: blood
-#+REVEAL_HLEVEL: 999
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 :END:
 
