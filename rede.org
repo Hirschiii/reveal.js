@@ -21,16 +21,44 @@ Rede zum Jährlichen Jubiläum der Machtergreifung
 #+NAME:   fig:SED-HR4049
 [[./speech.jpg]]
 
-* Inhalt
+* Allgemein
+** Anlass
+Erste Rede im Groß-deutschen Reichstag
+** Datum
+30.Januar.1939
+** Adressat
+- Das "Deutsch Volk"
+** Inhalt:
+ - Bilanz des bislang Erreichten
+ - Noch zu bewältigende Probleme
+ - "~Schreckliche~" Folgen des "~Versailler Vertrages~" für das deutsche Folk
+
+* Einleitung
+** Inhalt
 #+ATTR_REVEAL: :frag (fade-in)
 - Sein Erfolg
-- Erster Reichtag in Deutschaldnd
+- Erster Reichstag in Deutschland
 - Ein "Jahr, in dem sich Jahrhunderte verwirklichten"
 - "vergeblich angestrebte Sehnsucht zahlreicher Generationen" wurde erreicht.
 - es geht um den schon "jahrunderte" langen Kampf der Deutschen um "Freiheit"
 
-* Aufbau
+** Aufbau
 #+REVEAL: split
-
+#+ATTR_REVEAL: :frag (fade-in)
+- Sein Erfolg
 - Opfer des "Jahrelangen" Kampfes
--  ff
+- Der Kampf wurde endlich gewonnen
+- Wie anstrengend es war
+  
+* Hauptteil
+** "Juden"
+- "~Ankündigung~" der "~vernichtung der  jüdischen Rasse~"
+- "~das jüdische Problem zur Lösung bringen~" 
+  
+
+
+
+  
+
+
+
