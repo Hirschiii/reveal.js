@@ -26,15 +26,16 @@
 <div class="reveal">
 <div class="slides">
 <section id="sec-title-slide"><h1 class="title">Reden</h1><p class="subtitle">(Rede von Adolf Hitler)</p>
-<p class="date">Created: 2021-11-19 Fr 12:50</p>
+<p class="date">Created: 2021-11-19 Fr 12:57</p>
 </section>
 <section id="sec-table-of-contents"><div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#/slide-org1b99c16">Anlass</a></li>
-<li><a href="#/slide-org0d201df">Allgemein</a></li>
-<li><a href="#/slide-org5b72fb8">Einleitung</a></li>
+<li><a href="#/slide-orgd029305">Anlass</a></li>
+<li><a href="#/slide-org42eb9e7">Allgemein</a></li>
+<li><a href="#/slide-org86de462">Einleitung</a></li>
+<li><a href="#/slide-org9e1563a">Hauptteil</a></li>
 </ul>
 </div>
 </div>
@@ -42,10 +43,10 @@
 
 
 <section>
-<section id="slide-org1b99c16">
-<h2 id="org1b99c16">Anlass</h2>
+<section id="slide-orgd029305">
+<h2 id="orgd029305">Anlass</h2>
 </section>
-<section id="slide-org1b99c16-split">
+<section id="slide-orgd029305-split">
 
 <p>
 Rede zum Jährlichen Jubiläum der Machtergreifung
@@ -53,10 +54,10 @@ Rede zum Jährlichen Jubiläum der Machtergreifung
 
 
 </section>
-<section id="slide-org1b99c16-split">
+<section id="slide-orgd029305-split">
 
 
-<div id="org7b69b18" class="figure">
+<div id="org4af3e97" class="figure">
 <p><img src="./speech.jpg" alt="speech.jpg" />
 </p>
 <p><span class="figure-number">Figure 1: </span>Reichstag</p>
@@ -65,31 +66,31 @@ Rede zum Jährlichen Jubiläum der Machtergreifung
 </section>
 </section>
 <section>
-<section id="slide-org0d201df">
-<h2 id="org0d201df">Allgemein</h2>
-<div class="outline-text-2" id="text-org0d201df">
+<section id="slide-org42eb9e7">
+<h2 id="org42eb9e7">Allgemein</h2>
+<div class="outline-text-2" id="text-org42eb9e7">
 </div>
 </section>
 </section>
 <section>
-<section id="slide-org4a0a261">
-<h3 id="org4a0a261">Anlass</h3>
+<section id="slide-org111729e">
+<h3 id="org111729e">Anlass</h3>
 <p>
 Erste Rede im Groß-deutschen Reichstag
 </p>
 </section>
 </section>
 <section>
-<section id="slide-org49f0a96">
-<h3 id="org49f0a96">Datum</h3>
+<section id="slide-orgfcedeb6">
+<h3 id="orgfcedeb6">Datum</h3>
 <p>
 30.Januar.1939
 </p>
 </section>
 </section>
 <section>
-<section id="slide-org6cac524">
-<h3 id="org6cac524">Adressat</h3>
+<section id="slide-orgc4fb0ad">
+<h3 id="orgc4fb0ad">Adressat</h3>
 <ul>
 <li>Das "Deutsch Volk"</li>
 
@@ -97,27 +98,27 @@ Erste Rede im Groß-deutschen Reichstag
 </section>
 </section>
 <section>
-<section id="slide-orgf09dfb9">
-<h3 id="orgf09dfb9">Inhalt:</h3>
+<section id="slide-orgc2a93f0">
+<h3 id="orgc2a93f0">Inhalt:</h3>
 <ul>
 <li>Bilanz des bislang Erreichten</li>
 <li>Noch zu bewältigende Probleme</li>
-<li>"Schreckliche" Folgen des "<code>Versailler Vertrages</code>"</li>
+<li>"<code>Schreckliche</code>" Folgen des "<code>Versailler Vertrages</code>" für das deutsche Folk</li>
 
 </ul>
 
 </section>
 </section>
 <section>
-<section id="slide-org5b72fb8">
-<h2 id="org5b72fb8">Einleitung</h2>
-<div class="outline-text-2" id="text-org5b72fb8">
+<section id="slide-org86de462">
+<h2 id="org86de462">Einleitung</h2>
+<div class="outline-text-2" id="text-org86de462">
 </div>
 </section>
 </section>
 <section>
-<section id="slide-orgb67a4fe">
-<h3 id="orgb67a4fe">Inhalt</h3>
+<section id="slide-orga36bfc6">
+<h3 id="orga36bfc6">Inhalt</h3>
 <ul>
 <li class="fragment fade-in">Sein Erfolg</li>
 <li class="fragment fade-in">Erster Reichstag in Deutschland</li>
@@ -130,16 +131,33 @@ Erste Rede im Groß-deutschen Reichstag
 </section>
 </section>
 <section>
-<section id="slide-orge12a878">
-<h3 id="orge12a878">Aufbau</h3>
+<section id="slide-orgcf92d13">
+<h3 id="orgcf92d13">Aufbau</h3>
 </section>
-<section id="slide-orge12a878-split">
+<section id="slide-orgcf92d13-split">
 <ul>
 <li class="fragment fade-in">Sein Erfolg</li>
 <li class="fragment fade-in">Opfer des "Jahrelangen" Kampfes</li>
 <li class="fragment fade-in">Der Kampf wurde endlich gewonnen</li>
 <li class="fragment fade-in">Wie anstrengend es war</li>
-<li class="fragment fade-in"></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org9e1563a">
+<h2 id="org9e1563a">Hauptteil</h2>
+<div class="outline-text-2" id="text-org9e1563a">
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org7daae4f">
+<h3 id="org7daae4f">"Juden"</h3>
+<ul>
+<li>"<code>Ankündigung</code>" der "<code>vernichtung der  jüdischen Rasse</code>"</li>
+<li>"<code>das jüdische Problem zur Lösung bringen</code>"</li>
 
 </ul>
 </section>
