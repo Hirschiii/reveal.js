@@ -11,6 +11,7 @@
 
 
 * Allgemein
+
 ** Anlass
 Erste Rede im Groß-deutschen Reichstag
 ** Datum
@@ -32,7 +33,6 @@ Erste Rede im Groß-deutschen Reichstag
 - es geht um den schon "jahrunderte" langen Kampf der Deutschen um "Freiheit"
 
 ** Aufbau
-#+REVEAL: split
 #+ATTR_REVEAL: :frag (fade-in)
 - Sein Erfolg
 - Opfer des "Jahrelangen" Kampfes
@@ -40,9 +40,21 @@ Erste Rede im Groß-deutschen Reichstag
 - Wie anstrengend es war
   
 * Hauptteil
-** "Juden"
+** Prophezeiung an die internationalen Juden
 - "~Ankündigung~" der "~vernichtung der  jüdischen Rasse~"
 - "~das jüdische Problem zur Lösung bringen~" 
+** Interpretation
+- Amerikanische Präsident ~Roosevelt~ und dessen jüdische Ratgeber, schaffen kriegsbeteiligung der VSA
+- bezug auf die "~Jüdische Kriegserklärung 
+
+* Ende
+Politisch-psychologischen Voraussetzungen für eine Kriegsbeteiligung der VSA zu schaffen bemüht waren
+
+* Rethorische Mittel
+- Einheitlicher "Feind"
+- "Das deutsche Volk"
+- Erzählt von seinen Erfolgen
+- Erzählt von den erfolgen des "deutschen Volk"
   
 
 
