@@ -9,17 +9,6 @@
 #+TITLE: Reden
 #+SUBTITLE: Rede von Adolf Hitler
 
-* Anlass
-#+REVEAL: split
-
-Rede zum Jährlichen Jubiläum der Machtergreifung
-
-
-#+REVEAL: split
-
-#+CAPTION: Reichstag
-#+NAME:   fig:SED-HR4049
-[[./speech.jpg]]
 
 * Allgemein
 ** Anlass
@@ -31,7 +20,7 @@ Erste Rede im Groß-deutschen Reichstag
 ** Inhalt:
  - Bilanz des bislang Erreichten
  - Noch zu bewältigende Probleme
- - "~Schreckliche~" Folgen des "~Versailler Vertrages~" für das deutsche Folk
+ - "~Schreckliche~" Folgen des "~Versailler Vertrages~" für das deutsche Volk
 
 * Einleitung
 ** Inhalt
