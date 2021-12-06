@@ -1,0 +1,51 @@
+:REVEAL_PROPERTIES:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION: 4
+#+OPTIONS: num:nil toc:1
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_THEME: league
+:END:
+
+#+TITLE: Rassenlehre
+#+AUTHOR: Niklas, Immo, Fabian, Magnus
+#+LANGUAGE: de
+
+* Rassenlehre
+** Rassentheorien und Rassenhygiene
+- *Grundlegende Elemente:* "Rassentheorien" und "Rassenhygiene"
+- *Basis:* Einheintliches _Feindbild_
+- *Begin:* 19.Jahrhundert
+- *Wilhelm Marr* (Schriftsetller) , bezeichnette das Jadentum als _fremdartige und minderwertige Rasse_
+- Wird stark von *Nazis* als einheitliches *Schwaz-Weiß* _Feinbild_ genutzt
+
+** Rassenlehre gegen Juden
+- *Juden* stellten für Nazis den Hauptfeind der _arischen_ Rasse dar
+- *Sie* erklärten diese zu einer eigenen Rasse
+- "Sie* würden schüdliche Einfluss ausüben"
+
+* Verbreitung
+#+REVEAL: split
+[[./rassenlehre.jpg]]
+
+** Propaganda Plakate
+- "*Arier*" gegen Jude
+** Verteilung 12 "Gebote" zur Rasseneinhaltung:
+- z. B. "Haltet das deutsche Blut rein"
+- *Ziel:* religiöser Status
+- Die zwölf Gebote wurde auf faltblätter Verteilt
+** Verbreitung im Schulunterricht
+- eigenes Fach
+- Rassenatlas
+
+
+
+* Aktuell
+- Immernoch Aktuell
+** Atilla Hildman
+[[./atilla.jpg]]
+** Aussagen
+- Zitate:
+  - Ich möchte kein Verfahren in Deutschland, es währe nicht fair. Es ist kein Deutsches Verfahren.
+- Theorien:
+  - Juden hätten den Holocaust mitfinanziert
