@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<title>Writing Beamer presentations in org-mode</title>
+<meta name="author" content="(Niklas von Hirschfeld)"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="./reveal.js/css/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">Writing Beamer presentations in org-mode</h1><h2 class="author">Niklas von Hirschfeld</h2><h2 class="date">2010-03-30 Tue</h2><p class="date">Created: 2021-12-10 Fr 13:46</p>
+</section>
+<section id="sec-table-of-contents"><div id="table-of-contents">
+<h2>Inhaltsverzeichnis</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-orgf3cf57b">1. Introduction</a>
+<ul>
+<li><a href="#/slide-org706e8c9">1.1. A simple slide</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-orgf3cf57b">
+<h2 id="orgf3cf57b"><span class="section-number-2">1</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+</section>
+<section id="slide-org706e8c9">
+<h3 id="org706e8c9"><span class="section-number-3">1.1</span> A simple slide</h3>
+<p>
+This slide consists of some text with a number of bullet points:
+</p>
+
+<ul>
+<li>the first, very @important@, point!</li>
+<li>the previous point shows the use of the special markup which
+translates to the Beamer specific <i>alert</i> command for highlighting
+text.</li>
+
+</ul>
+
+
+<p>
+The above list could be numbered or any other type of list and may
+include sub-lists.
+</p>
+</section>
+</section>
+</div>
+</div>
+<script src="./reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+
+});
+
+</script>
+</body>
+</html>
